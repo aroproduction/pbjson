@@ -44,7 +44,7 @@ FIELD PURPOSES:
 - what_we_decided: Architectural decisions made with user agreement
 - what_we_built: Code/files completed (searchable by filename or description)
 - what_we_need_to_decide: Open questions requiring user input
-- what_we_resolved: Questions that have been answered (use ./update.py resolve)
+- what_we_resolved: Questions that have been answered (use ./pbjson.py resolve)
 - important_files: Entry points only (3-5 max) - "where do I start for X task?"
 - context: Background information, constraints, user preferences, anything else to remember
 ```
